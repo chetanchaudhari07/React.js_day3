@@ -1,0 +1,21 @@
+.box{
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+
+}
+
+.addtask{
+  width: 100px;
+  background-color: aqua;
+  border-radius: 5px;
+  border-style: none;
+}
+
+input{
+  width: 200px;
+}
